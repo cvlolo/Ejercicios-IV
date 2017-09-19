@@ -40,7 +40,7 @@ Uso al 1%
 	
  * El servidor dedicado tiene que utilizarse siempre el 100%, el virtual usándolo solo el 1% del tiempo sale a 1800 x 0,01= 18€/año.
 		
-	Uso al 10%
+Uso al 10%
 	
  * El servidor dedicado tiene que utilizarse siempre el 100%, el virtual usándolo solo el 10% del tiempo sale a 1800 x 0,1= 180€/año.
 	
