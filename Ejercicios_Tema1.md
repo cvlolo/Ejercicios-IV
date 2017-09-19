@@ -30,14 +30,18 @@
 	Servidor en la nube: [Arsys cloud server](https://www.arsys.es/servidores/cloud)
 
 	Características:
+	
 		*Cloud Procesador: 8 vCPU Xeon - Dedicado Procesador: Intel Xeon E5-2630 8 Core HyperThreading
 		*Cloud RAM: 16 GB  - Dedicado RAM: 16 GB
 		*Cloud Almacenamiento: 200 GB SSD - Dedicado Almacenamiento: 5 SATA 1 TB RAID5 + 2 SSD 200GB RAID1
 		*Cloud Precio: 150 €/mes -> 1800€/año - Dedicado Precio: 225 €/mes -> 2700€/año
 		
 	Uso al 1%
+	
 		*El servidor dedicado tiene que utilizarse siempre el 100%, el virtual usándolo solo el 1% del tiempo sale a 1800 x 0,01= 18€/año.
+		
 	Uso al 10%
+	
 		*El servidor dedicado tiene que utilizarse siempre el 100%, el virtual usándolo solo el 10% del tiempo sale a 1800 x 0,1= 180€/año.
 	
 		
