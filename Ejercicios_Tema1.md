@@ -69,6 +69,20 @@ En máquina virtual:
 	lolo@Lolo-PC:~$ egrep '^flags.*(vmx|svm)' /proc/cpuinfo
 	No sale nada
 
+4.  Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
+    Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
+
+Ejecuto la orden kvm-ok:
+
+	lolo@Lolo-PC:~/Ejercicios-IV$ kvm-ok
+	INFO: /dev/kvm exists
+	KVM acceleration can be used
+
+Como hipervisor he instalado VirtualBox.
+
+	
+
+
 
 
 
