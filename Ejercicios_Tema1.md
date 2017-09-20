@@ -45,5 +45,34 @@ Uso al 10%
  * El servidor dedicado tiene que utilizarse siempre el 100%, el virtual usándolo solo el 10% del tiempo sale a 1800 x 0,1= 180€/año.
 	
 		
+3. En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?
+
+El modelo de mi procesador sería el siguiente:
+	
+	lolo@Lolo-PC:~$ cat /proc/cpuinfo 
+	model name	: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz
+
+Ahora obtenemos sus flags correspondientes:
+
+	lolo@Lolo-PC:~$ egrep '^flags.*(vmx|svm)' /proc/cpuinfo
+	flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon 		pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 movbe popcnt tsc_deadline_timer 		aes xsave avx f16c rdrand lahf_lm abm epb tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid xsaveopt dtherm ida arat pln pts
+
+Para una raspberry pi:
+
+	pi@raspberrypi:~ $ cat /proc/cpuinfo
+	model name	: ARMv7 Processor rev 4 (v7l)
+
+En máquina virtual:
+
+	lolo@lolo-VirtualBox:~$ cat /proc/cpuinfo 
+	model name	: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz
+	lolo@Lolo-PC:~$ egrep '^flags.*(vmx|svm)' /proc/cpuinfo
+	No sale nada
+
+
+
+
+
+		
 
 
