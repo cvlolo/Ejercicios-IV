@@ -80,6 +80,13 @@ Ejecuto la orden kvm-ok:
 
 Como hipervisor he instalado VirtualBox.
 
+5. Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
+
+   Para darme de alta en este servicio voy a utilizar el cupón que me ha brindado previamente el profesor para Microsoft Azure. En primer lugar,
+   entro en la [siguiente página](https://www.microsoftazurepass.com) confirmando mis datos e introduciendo el código del cupón:
+
+   Una vez hecho esto, tenemos acceso al dashboard de Azure donde en la parte de suscripciones podemos comprobar el estado de nuestra suscripción:
+
 	
 
 
