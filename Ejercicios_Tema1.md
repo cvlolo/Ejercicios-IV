@@ -90,6 +90,11 @@ Como hipervisor he instalado VirtualBox.
    Una vez hecho esto, tenemos acceso al dashboard de Azure donde en la parte de suscripciones podemos comprobar el estado de nuestra suscripción:
    ![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/azure2.jpg)
 	
+6. Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
+
+   En la página anterior, dentro del mismo dashboard, entramos en la sección de DevTest Labs donde podremos crear nuestros propios tests.
+   ![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/azure3.jpg)
+
 
 
 
