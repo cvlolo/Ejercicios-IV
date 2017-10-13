@@ -7,7 +7,7 @@
 En el repositorio [siguiente](https://github.com/cvlolo/tdd-gdg) podemos encontrar un archivo en python con diferentes funciones y tests, he añadido la siguiente función con sus correspondientes
 tests:
 
-	```
+	```python
 	def squareRoot(a):
     if(not(type(a)is int)):
         return -1
