@@ -60,7 +60,7 @@ Al ejecutarlo mediante pocha, obtenemos lo siguiente:
 
 Voy a instalar dos versiones diferentes de python utilizando virtualend, la 2.7 y la 3.5. 
 
-Primero instalo virtualend con el comando `sudo apt-get install virtualenv python-virtualenv`. Una vez instalado, ejecuto los dos comandos siguientes:
+En primer lugar, instalo virtualend con el comando `sudo apt-get install virtualenv python-virtualenv`. Una vez instalado, ejecuto los dos comandos siguientes:
 
 ![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/virtualenv.png)
 
