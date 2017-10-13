@@ -25,7 +25,7 @@ Se ha realizado esto tanto en el ejercicio anterior como en mi [proyecto de la a
 
 ### 3. Convertir los tests unitarios anteriores con assert a programas de test y ejecutarlos desde mocha, usando descripciones del test y del grupo de test de forma correcta. Si hasta ahora no has subido el código que has venido realizando a GitHub, es el momento de hacerlo, porque lo vas a necesitar un poco más adelante.
 
-Voy a utilizar mocha en python mediante pocha, que nos ayuda a importar la facilidad de escritura de tests de nodejs a python.
+Voy a utilizar mocha en python mediante [pocha](https://github.com/rlgomes/pocha), que nos ayuda a importar la facilidad de escritura de tests de nodejs a python.
 
 	import unittest
 	import math
@@ -50,3 +50,8 @@ Voy a utilizar mocha en python mediante pocha, que nos ayuda a importar la facil
 
 	if __name__ == '__main__':
 	    unittest.main()
+
+
+Al ejecutarlo mediante pocha, obtenemos lo siguiente:
+
+![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/pocha.png)
