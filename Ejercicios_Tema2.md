@@ -55,3 +55,14 @@ Voy a utilizar mocha en python mediante [pocha](https://github.com/rlgomes/pocha
 Al ejecutarlo mediante pocha, obtenemos lo siguiente:
 
 ![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/pocha.png)
+
+### 4. Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).
+
+Voy a instalar dos versiones diferentes de python utilizando virtualend, la 2.7 y la 3.5. 
+
+Primero instalo virtualend con la orden `sudo apt-get install virtualenv python-virtualenv`, y una vez instalado, ejecuto las dos ordenes siguientes:
+
+![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/virtualenv.png)
+
+Con esto ya tendriamos disponibles dos versiones diferentes de python.
+
