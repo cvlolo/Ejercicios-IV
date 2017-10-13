@@ -19,4 +19,6 @@ tests:
 		self.assertEqual(squareRoot(25), 5, "La raiz cuadrada de 25 es 5")
 		self.assertEqual(squareRoot(7.9), -1, "No ha introducido un numero entero")
  	
+### 2. Para la aplicación que se está haciendo, escribir una serie de aserciones y probar que efectivamente no fallan. Añadir tests para una nueva funcionalidad, probar que falla y escribir el código para que no lo haga (vamos, lo que viene siendo TDD).
 
+Se ha realizado esto tanto en el ejercicio anterior como en mi [proyecto de la asignatura](https://github.com/cvlolo/IV-Proyecto) 
