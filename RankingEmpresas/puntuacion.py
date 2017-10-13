@@ -6,5 +6,5 @@ class Puntuacion:
 
 	def mostrarRanking(self):
 		empresasOrdenadas = sorted(self.empresas, key=lambda e: e.puntuacion, reverse=True)
-        	for empresa in empresasOrdenadas:
+		for empresa in empresasOrdenadas:
           		print ("La empresa " + empresa.nombre + " tiene una puntuacion de: " + str(empresa.puntuacion))
