@@ -71,3 +71,14 @@ Con esto ya tendriamos disponibles dos versiones diferentes de python.
 
 La aplicación puede visitarse en el siguiente repositorio [RankingEmpresas](https://github.com/cvlolo/Ejercicios-IV/tree/master/RankingEmpresas)
 
+### 6. Ejecutar el programa en diferentes versiones del lenguaje. ¿Funciona en todas ellas? 
+
+Utilizo virtualenv para ejecutar la aplicación anterior en python 2.7 y python 3.5. En principio, en 2.7 funcionaba sin problemas. Sin embargo, en la versión 3.5 obtenía fallos al mezclar tabulación 
+con espacios, cosa que la versión 3.5 no permite y la 2.7 sí. Tras arreglarlo, funciona sin problemas:
+
+![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/2.7.png)
+
+![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/3.5.png)
+
+
+
