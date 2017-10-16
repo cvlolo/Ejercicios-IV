@@ -80,5 +80,14 @@ con espacios, cosa que la versión 3.5 no permite y la 2.7 sí. Tras arreglarlo,
 
 ![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/3.5.png)
 
+### 7. Crear una descripción del módulo usando package.json. En caso de que se trate de otro lenguaje, usar el método correspondiente.
 
+Como estoy utilizando el lenguaje Python, lo equivalente a esto sería el archivo requirements.txt que sería una especie de lista con todos los pquetes necesarios así como sus versiones correspondientes, podemos ver un ejemplo de este fichero en el siguiente [enlace al fichero en mi repositorio](https://github.com/cvlolo/IV-Proyecto/blob/master/requirements.txt)
 
+En él, encontramos lo siguiente:
+
+		beautifulsoup4==4.5.1
+		pyTelegramBotAPI==3.2.1
+		html5lib==0.999999999
+
+Esto siginifica, que si hacemos pip instal -r requirements.txt, instalará esos 3 paquetes con la versión indicada.
