@@ -90,4 +90,4 @@ En él, encontramos lo siguiente:
 	pyTelegramBotAPI==3.2.1
 	html5lib==0.999999999
 
-Esto siginifica, que si hacemos pip instal -r requirements.txt, instalará esos 3 paquetes con la versión indicada.
+Esto siginifica, que si hacemos pip install -r requirements.txt, instalará esos 3 paquetes con la versión indicada.
