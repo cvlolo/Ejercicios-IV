@@ -86,8 +86,8 @@ Como estoy utilizando el lenguaje Python, lo equivalente a esto sería el archiv
 
 En él, encontramos lo siguiente:
 
-		beautifulsoup4==4.5.1
-		pyTelegramBotAPI==3.2.1
-		html5lib==0.999999999
+	beautifulsoup4==4.5.1
+	pyTelegramBotAPI==3.2.1
+	html5lib==0.999999999
 
 Esto siginifica, que si hacemos pip instal -r requirements.txt, instalará esos 3 paquetes con la versión indicada.
