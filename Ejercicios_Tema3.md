@@ -1,6 +1,6 @@
 # Manuel Casado Vergara
 
-## Ejercicios Tema 2
+## Ejercicios Tema 3
 
 ### 1. Darse de alta en algún servicio PaaS tal como Heroku, zeit, BlueMix u OpenShift.
 
