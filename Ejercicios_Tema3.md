@@ -5,6 +5,7 @@
 ### 1. Darse de alta en algún servicio PaaS tal como Heroku, zeit, BlueMix u OpenShift.
 
 Me he dado de alta en [Heroku](https://www.heroku.com/) como vemos en la siguiente captura:
+
 ![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/heroku.png)
 
 ### 2. Crear una aplicación en OpenShift o en algún otro PaaS en el que se haya dado uno de alta. Realizar un despliegue de prueba usando alguno de los ejemplos incluidos con el PaaS.
@@ -21,8 +22,8 @@ Se utiliza en mi [Proyecto](https://github.com/cvlolo/IV-Proyecto) para la ruta 
 
 ### 5.Instalar y echar a andar tu primera aplicación en Heroku.
 
-La aplicación de mi[Proyecto](https://github.com/cvlolo/IV-Proyecto) está instalada y funcionando.
+La aplicación de mi [Proyecto](https://github.com/cvlolo/IV-Proyecto) está instalada y funcionando.
 
 ### 8.Preparar la aplicación con la que se ha venido trabajando hasta este momento para ejecutarse en un PaaS, el que se haya elegido.
 
-La aplicación de mi[Proyecto](https://github.com/cvlolo/IV-Proyecto) se ejecuta correctamente en [Heroku](https://www.heroku.com/).
+La aplicación de mi [Proyecto](https://github.com/cvlolo/IV-Proyecto) se ejecuta correctamente en [Heroku](https://www.heroku.com/).
