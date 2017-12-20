@@ -5,6 +5,7 @@
 ### 1.Instalar los paquetes necesarios para usar KVM. Se pueden seguir estas instrucciones. Ya lo hicimos en el primer tema, pero volver a comprobar si nuestro sistema está preparado para ejecutarlo o hay que conformarse con la paravirtualización.
 
 Como se hizo en el primer tema, ejecutamos kvm-ok y obtenemos lo siguiente:
+
 ![img](https://github.com/cvlolo/Ejercicios-IV/blob/master/img/ej1.png)
 
 ### 2. Crear varias máquinas virtuales con algún sistema operativo libre tal como Linux o BSD. Si se quieren distribuciones que ocupen poco espacio con el objetivo principalmente de hacer pruebas se puede usar CoreOS (que sirve como soporte para Docker) GALPon Minino, hecha en Galicia para el mundo, Damn Small Linux, SliTaz (que cabe en 35 megas) y ttylinux (basado en línea de órdenes solo). Hacer un ejercicio equivalente usando otro hipervisor como Xen, VirtualBox o Parallels.
